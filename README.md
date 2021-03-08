@@ -1,3 +1,3 @@
 # CobaGUI
 Video penjelasan:
-https://github.com/yudiwbs/CobaGUI
+https://youtu.be/7RpAOVkgIuM
